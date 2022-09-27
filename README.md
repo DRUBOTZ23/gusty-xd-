@@ -5,7 +5,7 @@
 <a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><b><i>Howdy , it's Tahmid Rayat 👋</i></b></h2>
+<h2><b><i>Howdy , it's MUHAMAD BADRU WASIH 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
