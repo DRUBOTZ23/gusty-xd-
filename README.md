@@ -2,10 +2,10 @@
 <p align="center"><a href="https://github.com/mhmdbadru-23">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=htr-tech&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/mhmdbadru-23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/gusty-xd/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><b><i>Howdy , it's MUHAMAD BADRU WASIH 👋</i></b></h2>
+<h2><b><i>Howdy , it's GUSTY PRAYOGA 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
