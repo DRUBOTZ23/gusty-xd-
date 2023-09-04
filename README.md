@@ -1,5 +1,5 @@
 <!-- Github README -->
-<p align="center"><a href="https://github.com/mhmdbadru-23">
+<p align="center"><a href="https://github.com/gustyxd">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=htr-tech&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/gusty-xd/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
@@ -25,8 +25,8 @@
 <a href="https://github.com/mhmdbadru-23"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/mhmdbadru-23"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/mhmdbadru230"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/Mhmdbadru230"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://www.instagram.com/mhmdbadru23"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+<a href="https://github.com/gustyxd"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+<a href="https://fb.com/gustyxd"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
+<a href="https://m.me/gustyxd"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
+<a href="https://www.instagram.com/gustyxd"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 
